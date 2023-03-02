@@ -36,7 +36,7 @@ class Paddle:
         Returns:
              bool: True if ball position = paddle position , False otherwise.
         """
-        if self.position[0] <= ball.position[0] <= self.position[0] + self.width:
-            if self.position[1] <= ball.position[1] <= self.position[1] + self.height:
+        if self.position[0] <= ball.position[0] <= self.position[0] + self.width:  # Чи м'яч між правою і лівою кордоном ракетки
+            if self.position[1] <= ball.position[1] <= self.position[1] + self.height:  #  Чи м'яч між верхньою та нижною частиною ракетки
                 return True
         return False
