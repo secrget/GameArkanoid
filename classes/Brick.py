@@ -30,10 +30,10 @@ class Brick:
         Returns:
             bool: True if the ball has collided with the Block, False otherwise.
         """
-        if self.status == "unharmed":
-            if self.position[0] <= ball.position[0] <= self.position[0] + self.width:
-                if self.position[1] <= ball.position[1] <= self.position[1] + self.height:
-                    return True
+        if self.status == "unharmed" and\
+                ( self.position[0] <= ball.position[0] <= self.position[0] + self.width) and\
+                (self.position[1] <= ball.position[1] <= self.position[1] + self.height):
+            return True
         return False
 
     def destroy(self):
