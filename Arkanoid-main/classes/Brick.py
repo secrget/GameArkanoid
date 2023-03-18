@@ -8,7 +8,7 @@ class Brick:
         position: A 2-element list representing the position of the Block on the game screen.
         width:  The width of the Block.
         height: The height of the Block.
-        status: The status of the Block, either "intact" or "destroyed".
+        status: The status of the Block, either "unharmed" or "destroyed".
 
     Methods:
         check_collision(ball): Checks if the ball has collided with the Block.
@@ -18,7 +18,7 @@ class Brick:
         self.position = position
         self.width = width
         self.height = height
-        self.status = "intact"
+        self.status = "unharmed"
 
     def check_collision(self, ball):
         """
@@ -30,10 +30,10 @@ class Brick:
         Returns:
             bool: True if the ball has collided with the Block, False otherwise.
         """
-        if self.status == "intact":
-            if self.position[0] <= ball.position[0] <= self.position[0] + self.width:
-                if self.position[1] <= ball.position[1] <= self.position[1] + self.height:
-                    return True
+        if self.status == "unharmed" and\
+                ( self.position[0] <= ball.position[0] <= self.position[0] + self.width) and\
+                (self.position[1] <= ball.position[1] <= self.position[1] + self.height):
+            return True
         return False
 
     def destroy(self):
