@@ -4,25 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3041f6f-fe37-4146-ae98-64cc02250c96" name="Changes" comment="new project commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/.github/workflows/python-app.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/Ball.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/Brick.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/Game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/Paddle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/Point.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/test_Ball.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/test_Game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/test_brick.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/test_paddle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/test_point.py" beforeDir="false" />
+    <list default="true" id="b3041f6f-fe37-4146-ae98-64cc02250c96" name="Changes" comment="third commit">
+      <change beforePath="$PROJECT_DIR$/.github/workflows/python-app.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -333,7 +316,8 @@
     <MESSAGE value="It`s commit" />
     <MESSAGE value="that all" />
     <MESSAGE value="that correct game" />
-    <option name="LAST_COMMIT_MESSAGE" value="that correct game" />
+    <MESSAGE value="third commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
