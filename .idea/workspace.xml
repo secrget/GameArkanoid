@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3041f6f-fe37-4146-ae98-64cc02250c96" name="Changes" comment="py Yaml commit" />
+    <list default="true" id="b3041f6f-fe37-4146-ae98-64cc02250c96" name="Changes" comment="3 commit">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -283,7 +286,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679331473939</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="3 commit">
+      <created>1679332877868</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1679332877868</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -324,7 +334,8 @@
     <MESSAGE value="third commit" />
     <MESSAGE value="workspace" />
     <MESSAGE value="py Yaml commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="py Yaml commit" />
+    <MESSAGE value="3 commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="3 commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
