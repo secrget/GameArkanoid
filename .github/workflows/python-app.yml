@@ -36,5 +36,11 @@ jobs:
         flake8 . --count --exit-zero --max-complexity=10 --max-line-length=127 --statistics
     - name: Test with pytest
       run: |
-        pytest 
+        pytest --html=report.html
+
+    - name: Upload HTML Report
+      uses: actions/upload-artifact@v2
+      with:
+          name: pytest-html-report
+          path: report.html
    
