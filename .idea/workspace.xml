@@ -4,31 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3041f6f-fe37-4146-ae98-64cc02250c96" name="Changes" comment="that correct game">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/python-app.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CI CD.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/CI_CD.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Ball.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Brick.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Paddle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/Point.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/classes/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_Ball.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_Game.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_brick.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_paddle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_point.py" beforeDir="false" />
+    <list default="true" id="b3041f6f-fe37-4146-ae98-64cc02250c96" name="Changes" comment="new project commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/.github/workflows/python-app.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/Ball.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/Brick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/Paddle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/Point.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/classes/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/requirements.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/test_Ball.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/test_Game.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/test_brick.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/test_paddle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Arkanoid_game/test/test_point.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,11 +48,11 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -76,22 +70,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/Surface/PycharmProjects/CI_CD",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Surface/PycharmProjects/CI_CD&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python tests.pytest in bin">
     <configuration name="Python tests for test_Game.test_game_over_blocks" type="tests" factoryName="Autodetect" temporary="true" nameIsGenerated="true">
       <module name="CI CD" />
@@ -229,7 +223,7 @@
       <workItem from="1679135113926" duration="2277000" />
       <workItem from="1679137451604" duration="1313000" />
       <workItem from="1679311181131" duration="929000" />
-      <workItem from="1679312134697" duration="3173000" />
+      <workItem from="1679312134697" duration="2813000" />
     </task>
     <task id="LOCAL-00001" summary="First comit">
       <created>1677076939093</created>
