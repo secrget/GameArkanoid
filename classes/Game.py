@@ -49,7 +49,8 @@ class Game:
                 self.paddle.move(8)
             elif keys[pg.K_ESCAPE]:  # якщо клавіша з кодом K_ESCAPE була натиснута, то виходимо з циклу
                 break
-                # Це просто опис            self.update_game()  # оновлюємо стан гри.
+                # Це просто опис
+            self.update_game()  # оновлюємо стан гри.
             self.render_game()   # відображаємо стан гри.
             if self.check_game_over():  # Перевірка на закінчення гри
                 break
