@@ -17,7 +17,7 @@ def test_brick_destroy():
     brick.destroy()
     assert brick.status == "destroyed"
 
-
+#new file
 def test_brick_collision():
     brick = Brick([0, 0], 50, 20)
     ball = Ball([0, 0], [5, 5])
