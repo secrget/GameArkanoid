@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b3041f6f-fe37-4146-ae98-64cc02250c96" name="Changes" comment="third commit">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/python-app.yml" beforeDir="false" />
-    </list>
+    <list default="true" id="b3041f6f-fe37-4146-ae98-64cc02250c96" name="Changes" comment="py Yaml commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679313031219</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="py Yaml commit">
+      <created>1679331473939</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1679331473939</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -317,7 +322,9 @@
     <MESSAGE value="that all" />
     <MESSAGE value="that correct game" />
     <MESSAGE value="third commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="third commit" />
+    <MESSAGE value="workspace" />
+    <MESSAGE value="py Yaml commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="py Yaml commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

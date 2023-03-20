@@ -11,7 +11,7 @@ def test_brick_creation():
     assert brick.height == 20
     assert brick.status == "unharmed"
 
-
+#new file
 def test_brick_destroy():
     brick = Brick([0, 0], 50, 20)
     brick.destroy()
