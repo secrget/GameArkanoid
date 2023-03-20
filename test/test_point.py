@@ -1,7 +1,6 @@
 import pytest
 
-from classes.Point import Point
-
+from classes.Point import Point#new
 
 def test_point_creation():
     point = Point(3)
