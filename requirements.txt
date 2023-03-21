@@ -1,2 +1,9 @@
 pygame==2.1.2
 pytest==7.2.2
+flake8==6.0.0
+flake8-html==0.4.3
+pytest==7.2.1
+pytest-html==3.2.0
+pytest-metadata==2.0.4
+pycodestyle==2.10.0
+pyflakes==3.0.1
