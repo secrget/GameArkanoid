@@ -3,7 +3,7 @@ from classes.Ball import Ball
 from classes.Paddle import Paddle
 from classes.Brick import Brick
 from classes.Point import Point
-#from  elase.BrickArray import bricks
+from  classes.BrickArray import bricks
 
 class Game:
     """The Game class represents the Breakout game.
@@ -31,7 +31,8 @@ class Game:
         self.clock = pg.time.Clock()
         self.ball = Ball([450, 400], [3, 3])
         self.paddle = Paddle([450, 450], 80, 20)
-        self.bricks = [Brick([j, i], 50, 20) for i in range(50, 200, 30) for j in range(50, 700, 70)]
+        self.bricks = bricks
+        """[Brick([j, i], 50, 20) for i in range(50, 200, 30) for j in range(50, 700, 70)]"""
         self.point = Point(0)
 
 
